@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d1a2705-2263-4b1b-a01d-8f75636fd265" name="Changes" comment="frontend 1">
-      <change beforePath="$PROJECT_DIR$/backend-assurance/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-assurance/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/ClientRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/client/client.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/client/client.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/client/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/client/client.ts" afterDir="false" />
+    <list default="true" id="6d1a2705-2263-4b1b-a01d-8f75636fd265" name="Changes" comment="frontend 2">
+      <change afterPath="$PROJECT_DIR$/backend-assurance/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend-assurance/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/security/SecurityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-assurance/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-assurance/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-assurance/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/web/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-assurance/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/web/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-assurance/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend-assurance/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +131,7 @@
       <workItem from="1778434603372" duration="9000" />
       <workItem from="1778434724964" duration="10000" />
       <workItem from="1778445193881" duration="58000" />
-      <workItem from="1778485845393" duration="10555000" />
+      <workItem from="1778485845393" duration="11583000" />
     </task>
     <task id="LOCAL-00001" summary="couche DAO">
       <option name="closed" value="true" />
@@ -163,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778495413158</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="frontend 2">
+      <option name="closed" value="true" />
+      <created>1778496558093</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778496558093</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +183,7 @@
     <MESSAGE value="couche DAO" />
     <MESSAGE value="couche service" />
     <MESSAGE value="frontend 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="frontend 1" />
+    <MESSAGE value="frontend 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend 2" />
   </component>
 </project>
