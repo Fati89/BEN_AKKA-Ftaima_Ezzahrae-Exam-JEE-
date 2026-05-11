@@ -4,40 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d1a2705-2263-4b1b-a01d-8f75636fd265" name="Changes" comment="couche service">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/BackendApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ClientDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ContratAutomobileDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ContratDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ContratHabitationDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ContratSanteDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/PaiementDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/ContartAutomobile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/ContartHabitation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/ContartSante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/ContratAssurance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/Paiement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/enums/ContratStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/enums/NiveauCouverture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/enums/PaiementType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/enums/TypeLogement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/exceptions/ClientNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/mapper/Mapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/ClientRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/ContratRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/PaiementRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/services/AssuarceService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/services/AssuranecServiceImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/web/ClientController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/BackendApplicationTests.java" beforeDir="false" />
+    <list default="true" id="6d1a2705-2263-4b1b-a01d-8f75636fd265" name="Changes" comment="frontend 1">
+      <change beforePath="$PROJECT_DIR$/backend-assurance/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend-assurance/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/ClientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/client/client.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/client/client.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/client/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/client/client.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Fati89"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Fati89&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Fati89/BEN_AKKA-Ftaima_Ezzahrae-Exam-JEE-.git",
-    "accountId": "3da8c1e8-9d54-471d-9c2e-2be031d5c0ed"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Fati89/BEN_AKKA-Ftaima_Ezzahrae-Exam-JEE-.git&quot;,
+    &quot;accountId&quot;: &quot;3da8c1e8-9d54-471d-9c2e-2be031d5c0ed&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -88,30 +58,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.BackendApplication.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\fat1z\\Desktop\\projet\\backend\\frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\fat1z\\Desktop\\projet\\backend\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="benakka.fatimaezzahare.ben_akka_fatima_ezzahare.exceptions" />
@@ -159,7 +129,7 @@
       <workItem from="1778434603372" duration="9000" />
       <workItem from="1778434724964" duration="10000" />
       <workItem from="1778445193881" duration="58000" />
-      <workItem from="1778485845393" duration="9415000" />
+      <workItem from="1778485845393" duration="10555000" />
     </task>
     <task id="LOCAL-00001" summary="couche DAO">
       <option name="closed" value="true" />
@@ -177,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778493793870</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="frontend 1">
+      <option name="closed" value="true" />
+      <created>1778495386793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778495386793</updated>
+    </task>
+    <task id="LOCAL-00004" summary="frontend 1">
+      <option name="closed" value="true" />
+      <created>1778495413158</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778495413158</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +172,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="couche DAO" />
     <MESSAGE value="couche service" />
-    <option name="LAST_COMMIT_MESSAGE" value="couche service" />
+    <MESSAGE value="frontend 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend 1" />
   </component>
 </project>

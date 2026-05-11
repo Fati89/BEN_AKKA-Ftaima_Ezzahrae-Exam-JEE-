@@ -2,14 +2,15 @@ import { Component } from '@angular/core';
 import {catchError, map, Observable, throwError} from 'rxjs';
 import {FormBuilder, FormGroup, ReactiveFormsModule} from '@angular/forms';
 import {ClientModel} from '../model/client-model';
-import {Router} from 'express';
 import {ClientService} from '../services/client-service';
+import { CommonModule } from '@angular/common';
 
 
 @Component({
   selector: 'app-client',
   imports: [
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    CommonModule
   ],
   templateUrl: './client.html',
   styleUrl: './client.css',

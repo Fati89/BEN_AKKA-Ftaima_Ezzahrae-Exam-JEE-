@@ -1,7 +1,7 @@
 <div class="container mt-2">
-  <ng-container *ngIf="customers | async as listCustomers; else failureOrLading">
+  <ng-container *ngIf="clients | async as listClients; else failureOrLading">
     <div class="card">
-      <div class="card-header">Customers</div>
+      <div class="card-header">Clients</div>
       <div class="card-body">
         <div *ngIf="searchFormGroup">
           <form [formGroup]="searchFormGroup" (ngSubmit)="handleSearchClients()">
@@ -21,9 +21,9 @@
           </tr>
           </thead>
           <tbody>
-          <tr *ngFor="let c of customers | async">
+          <tr *ngFor="let c of clients | async">
             <td>{{c.id}}</td>
-            <td>{{c.name}}</td>
+            <td>{{c.nom}}</td>
             <td>{{c.email}}</td>
             <td>
               <button (click)="handleDeleteClient(c)" class="btn btn-danger">
