@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d1a2705-2263-4b1b-a01d-8f75636fd265" name="Changes" comment="couche service">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/BackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ClientDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ContratAutomobileDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ContratDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ContratHabitationDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/ContratSanteDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/dtos/PaiementDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/ContartAutomobile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/ContartHabitation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/ContartSante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/ContratAssurance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/entities/Paiement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/enums/ContratStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/enums/NiveauCouverture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/enums/PaiementType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/enums/TypeLogement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/exceptions/ClientNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/mapper/Mapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/ClientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/ContratRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/repositories/PaiementRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/services/AssuarceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/services/AssuranecServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/web/ClientController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/benakka/fatimaezzahare/ben_akka_fatima_ezzahare/BackendApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fati89"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Fati89/BEN_AKKA-Ftaima_Ezzahrae-Exam-JEE-.git",
+    "accountId": "3da8c1e8-9d54-471d-9c2e-2be031d5c0ed"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3DX9WtbGDubVL75YyhS8V6GikNd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.BackendApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\fat1z\\Desktop\\projet\\backend\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="benakka.fatimaezzahare.ben_akka_fatima_ezzahare.exceptions" />
+      <recent name="benakka.fatimaezzahare.ben_akka_fatima_ezzahare.enums" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="benakka.fatimaezzahare.ben_akka_fatima_ezzahare.dtos" />
+      <recent name="benakka.fatimaezzahare.ben_akka_fatima_ezzahare.repositories" />
+      <recent name="benakka.fatimaezzahare.ben_akka_fatima_ezzahare.entities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ben_akka_fatima_ezzahare" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="benakka.fatimaezzahare.ben_akka_fatima_ezzahare.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d1a2705-2263-4b1b-a01d-8f75636fd265" name="Changes" comment="" />
+      <created>1778417587354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778417587354</updated>
+      <workItem from="1778417591355" duration="2597000" />
+      <workItem from="1778434009804" duration="405000" />
+      <workItem from="1778434603372" duration="9000" />
+      <workItem from="1778434724964" duration="10000" />
+      <workItem from="1778445193881" duration="58000" />
+      <workItem from="1778485845393" duration="9415000" />
+    </task>
+    <task id="LOCAL-00001" summary="couche DAO">
+      <option name="closed" value="true" />
+      <created>1778489032047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778489032047</updated>
+    </task>
+    <task id="LOCAL-00002" summary="couche service">
+      <option name="closed" value="true" />
+      <created>1778493793869</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778493793870</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="couche DAO" />
+    <MESSAGE value="couche service" />
+    <option name="LAST_COMMIT_MESSAGE" value="couche service" />
+  </component>
+</project>
